@@ -122,18 +122,18 @@ Here are the 9 primary visualizations that form the core of this project, with d
 ```plaintext
 Ola_Sql_Project_With_Pandas_Plotly/
 ├── Data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
+│   ├── raw_data.csv                # Raw dataset used for the project
+│   ├── cleaned_data.csv            # Preprocessed and cleaned data
 ├── Notebooks/
-│   ├── Ola_Sql_Analysis_with_Plotly.ipynb
+│   ├── Ola_Sql_Analysis_with_Plotly.ipynb   # Main analysis notebook
 ├── SQL/
-│   ├── Queries.sql
-├── README.md
+│   ├── Queries.sql                 # SQL queries used for data exploration
+├── README.md                       # Project documentation
 └── Visualizations/
-    ├── Revenue_Trend.html
-    ├── Customer_Segmentation.html
-    └── (other graph files...)
-
+    ├── Revenue_Trend.html          # Interactive graph for revenue trends
+    ├── Customer_Segmentation.html  # Interactive graph for customer analysis
+    └── (other graph files...)      # Additional interactive visualizations
+```
 
 ---
 
@@ -142,7 +142,7 @@ For more insights and data projects, connect with me on LinkedIn or GitHub.
 
 - **LinkedIn**: [https://www.linkedin.com/in/swapnil-chavan-%F0%9F%8C%90%F0%9F%94%8D%F0%9F%A7%AC%F0%9F%8E%AF%F0%9F%9A%80-365950205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
  ](#)
-
+- **Email Id** : chavanswapnil0990@gmail.com
 
 ---
 
