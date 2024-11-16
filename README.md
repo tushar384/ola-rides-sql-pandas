@@ -118,10 +118,21 @@ Here are the 9 primary visualizations that form the core of this project, with d
 
 ---
 
-## 📂 Project Structure  
-'''
-Ola_Sql_Project_With_Pandas/ ├── Data/ │ ├── raw_data.csv │ ├── cleaned_data.csv ├── Notebooks/ │ ├── Ola_SQL_Analysis.ipynb ├── Visualizations/ │ ├── Revenue_Trend.png │ ├── Driver_Performance.png │ ├── Customer_Segmentation.png │ ├── Demand_Analysis.png │ └── Location_Density_Map.png └── README.md 
-'''
+## 🖥️ Project Structure  
+```plaintext
+Ola_Sql_Project_With_Pandas_Plotly/
+├── Data/
+│   ├── raw_data.csv
+│   ├── cleaned_data.csv
+├── Notebooks/
+│   ├── Ola_Sql_Analysis_with_Plotly.ipynb
+├── SQL/
+│   ├── Queries.sql
+├── README.md
+└── Visualizations/
+    ├── Revenue_Trend.html
+    ├── Customer_Segmentation.html
+    └── (other graph files...)
 
 
 ---
