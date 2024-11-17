@@ -51,7 +51,3 @@ This project involves the analysis of Ola ride data using **SQL** and **Pandas**
 
 ---
 
-## 📝 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/ola-ride-analysis.git
