@@ -1,11 +1,13 @@
 # 🚕 Ola Ride Analysis Project with SQL & Pandas 📊  
-![Project Pipeline](https://github.com/tushar384/Mumbai_Properties_With_Solving_Real_Business_Problem/blob/main/Mubai%20Propertie%20Img.jpg?raw=true)
+
 
 Welcome to my **Ola Ride Analysis Project**, where I leverage **SQL**, **Pandas**, and **Plotly** to analyze ride-sharing data, generate insightful visualizations, and deliver business-focused recommendations. This project is a unique showcase of advanced data analysis combined with visually engaging, interactive graphs, tailored for business decision-making.  
 
 ---
 
 ## ✨ Project Highlights
+![Project Pipeline](https://github.com/tushar384/ola-rides-sql-pandas/blob/main/Ola%20Project%20Img.jpg?raw=true)
+
 1. **SQL & Pandas Mastery**: Data extraction and analysis using SQL, with additional processing and manipulation in Pandas.
 2. **9 Interactive Plotly Graphs**: Dynamic and interactive visualizations built with Plotly to enhance data storytelling.
 3. **Business Insights**: Actionable insights based on revenue trends, driver performance, demand patterns, and more.
