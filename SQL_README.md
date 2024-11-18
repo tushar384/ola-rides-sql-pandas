@@ -1,8 +1,7 @@
 # Ola Ride Analysis Project 🚕📊.
 
-**Author**: Your Name  
-**Email**: [chavanswapnil0990@gmail.com]
-**GitHub Profile**: [https://github.com/tushar384/ola-rides-sql-pandas]
+Leveraged SQL and Pandas to analyze ride trends, optimize pricing strategies, and improve operational efficiency. 
+Key insights include peak demand hours, high-revenue routes, and cancellation reduction strategies.
 
 ---
 
