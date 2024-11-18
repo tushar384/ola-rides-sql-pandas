@@ -5,7 +5,8 @@ Key insights include peak demand hours, high-revenue routes, and cancellation re
 
 ---
 
-## 📄 Project Overview  
+## 📄 Project Overview 
+![Project Pipeline](https://github.com/tushar384/ola-rides-sql-pandas/blob/main/Ola%20Project%20Img.jpg?raw=true)
 This project involves the analysis of Ola ride data using **SQL** and **Pandas** to derive actionable insights. By leveraging advanced data transformation techniques and visualization tools, the project highlights trends, operational inefficiencies, and customer behaviors to assist in data-driven decision-making.
 
 ---
